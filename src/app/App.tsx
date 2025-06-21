@@ -1,12 +1,16 @@
+
+import Layoult from '../layoult/layoult'
 import './App.css'
 
 function App() {
 
 
   return (
-    <>
-      <h1>Inicio</h1>
-    </>
+   <Layoult>
+    
+     
+
+   </Layoult> 
   )
 }
 
