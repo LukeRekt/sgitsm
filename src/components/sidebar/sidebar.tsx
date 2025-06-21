@@ -9,7 +9,7 @@ export default function Sidebar(){
     return (
         <div className="flex flex-col items-center bg-blue-500 w-[5rem] border-r-2 border-slate-300">
             <SidebarContainer>
-                <SidebarItem Icon={ChartPie} nome="nome"/>
+                <SidebarItem Icon={ChartPie} nome="dashboard"/>
                 <SidebarItem Icon={Ticket} nome="nome"/>
                 <SidebarItem Icon={ReplaceAll} nome="nome"/>
                 <SidebarItem Icon={Computer} nome="nome"/>
