@@ -8,7 +8,7 @@ function App() {
   return (
    <Layoult>
     
-     
+     <p className='text-red-500'>Teste de conteudo</p>
 
    </Layoult> 
   )
